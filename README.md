@@ -13,8 +13,11 @@ Overall System Score: Calculates a performance score based on the CPU, memory, a
 
 Installation:
 1. you need to have a python installed with rquired with the packages.
+
 then have to install matplotlib using cmd (if u are using windows)
+
 -> pip install matplotlib
+
 run the above command in the cmd
 
 2. Then create a new file with the extension .py (u can  use any IDEs) and run the code.
