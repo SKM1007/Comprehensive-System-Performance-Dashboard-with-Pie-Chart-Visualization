@@ -12,7 +12,7 @@ Motherboard Information: The manufacturer and the product details of the motherb
 Overall System Score: Calculates a performance score based on the CPU, memory, and storage.
 
 Installation:
-1. you need to have a python installed with rquired with the packages.
+1. you need to have a python installed with rquired packages.
 
 then have to install matplotlib using cmd (if u are using windows)
 
