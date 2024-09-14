@@ -1,4 +1,4 @@
-# Comprehensive-System-Performance-Dashboard-with-Pie-Chart-Visualization
+# Simple-System-Performance-Dashboard-with-Pie-Chart-Visualization
 
 The Comprehensive Performance Dashboard is a Python project that gives all details about your computer's hardware and software configuration. This includes information about the operating system, processor or CPU, memory, storage, and motherboard.
 
